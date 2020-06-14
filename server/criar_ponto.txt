@@ -1,0 +1,14 @@
+{
+	"name": "Mercado do Zé",
+  "email": "zeze@ze.com",
+  "whatsapp": "1182985889060",
+  "latitude": -25.8697011874,
+  "longitude": -109.969704478,
+  "city": "Delmiro Gouveia",
+  "uf": "AL",
+  "items": [
+		1,
+		2,
+		6
+	]
+}
